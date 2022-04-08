@@ -29,4 +29,4 @@ Useful links:
 
 **Python framework for graph analytics and co-occurrence analysis.**
 
-SOME MORE TEXT HERE
+Blue Graph is a Python framework for graph analytics and co-occurrence analysis consolidating capabilities from different graph processing backends under a unified API. Using Blue Graph, users can gain insights, uncover hidden patterns, infer implicit knowledge and build recommendations engines from graph-shaped data. Blue Graph is already successfully being used to perform Knowledge Graph guided literature reviews, which involves building, exploring and analyzing knowledge graphs from text.

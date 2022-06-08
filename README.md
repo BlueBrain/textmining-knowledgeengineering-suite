@@ -1,5 +1,4 @@
 # Textmining Knowledgeengineering Suite
-A suite to XXX(SOME TEXT MISSING HERE).
 
 - [Search](#search) — Blue Brain text mining toolbox for semantic search and structured information extraction
 - [BlueGraph](#bluegraph) — Python framework for graph analytics and co-occurrence analysis
@@ -16,7 +15,6 @@ Useful links:
 
 **Blue Brain text mining toolbox for semantic search and structured information extraction.**
 
-SOME MORE TEXT HERE
 
 
 ## BlueGraph
